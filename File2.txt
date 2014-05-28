@@ -1,5 +1,5 @@
 file2.txt
 
-InitialSecond revision.
+Second revision.
 Modified x1
-Feature x2
+Modified x2
