@@ -2,3 +2,4 @@ This is the second revision.
 
 Added reference to: file2.txt
 Fix 1.
+Fix 3.
