@@ -1,6 +1,6 @@
 file2.txt
 
-Second revision.
+Third revision.
 Modified x1
 Modified x2
 Feature x3
