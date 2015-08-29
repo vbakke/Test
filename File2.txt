@@ -1,6 +1,7 @@
 file2.txt
 
 Feature A
+Feature A, fix 1
 Modified x1
 Modified x2
 Feature x3
