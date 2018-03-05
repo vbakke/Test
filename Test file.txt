@@ -1,4 +1,4 @@
 This is the test file for ProjectB
 
 
-Feature B.2.
+Feature B.3.
