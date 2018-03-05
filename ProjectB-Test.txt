@@ -1,3 +1,3 @@
 ProjectB test file
 
-First revision.
+Second major revision.
